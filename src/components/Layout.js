@@ -1,5 +1,5 @@
 import React from 'react';
-import Routes from "../routes";
+import Routy from "../routes";
 import Sidebar from "./Sidebar";
 import Nav from "./Nav";
 
